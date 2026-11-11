@@ -1,0 +1,7 @@
+.test_venv/
+__pycache__/
+*.pyc
+opera_house.jpg
+myimage_500.jpg
+study_guide.txt
+lab_manual.txt
